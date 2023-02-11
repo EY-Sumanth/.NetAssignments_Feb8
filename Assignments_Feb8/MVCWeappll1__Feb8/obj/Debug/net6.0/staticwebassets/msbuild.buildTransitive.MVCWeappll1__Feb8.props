@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MVCWeappll1__Feb8.props" />
+</Project>

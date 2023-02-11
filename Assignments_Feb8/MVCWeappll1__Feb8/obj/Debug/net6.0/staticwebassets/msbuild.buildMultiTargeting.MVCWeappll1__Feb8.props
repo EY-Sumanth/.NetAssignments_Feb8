@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\MVCWeappll1__Feb8.props" />
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\bin\Debug\GenericsAdd__Feb8.exe.config
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\bin\Debug\GenericsAdd__Feb8.exe
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\bin\Debug\GenericsAdd__Feb8.pdb
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\obj\Debug\GenericsAdd__Feb8.csproj.AssemblyReference.cache
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\obj\Debug\GenericsAdd__Feb8.csproj.SuggestedBindingRedirects.cache
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\obj\Debug\GenericsAdd__Feb8.csproj.CoreCompileInputs.cache
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\obj\Debug\GenericsAdd__Feb8.exe
+C:\Users\XC668EV\source\repos\GenericsAdd__Feb8\obj\Debug\GenericsAdd__Feb8.pdb
